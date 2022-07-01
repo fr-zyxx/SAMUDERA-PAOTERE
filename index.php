@@ -60,39 +60,39 @@
         <div class="collapse navbar-collapse" id="navbarNavDropdown">
           <ul class="navbar-nav ml-auto">
             <li class="nav-item">
-              <a class="nav-link mr-5" href="#">Tentang Kami </a>
+              <a class="nav-link mr-5 font-weight-bold " href="info.php">Tentang Kami </a>
             </li>
             <li class="nav-item dropdown mr-5">
-              <a class="nav-link" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              <a class="nav-link font-weight-bold" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
               Seputar Paotere
               <i class="fa fa-chevron-down h5 ml-2"></i>
               </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                  <a class="dropdown-item text-light" href="#" style="font-size:12px">PELABUHAN</a>
-                  <a class="dropdown-item text-light" href="#" style="font-size:12px">RUMAH MAKAN</a>
-                  <a class="dropdown-item text-light" href="#" style="font-size:12px">PELELANGAN IKAN</a>
-                  <a class="dropdown-item text-light" href="#" style="font-size:12px">GERBANG 1</a>
-                  <a class="dropdown-item text-light" href="#" style="font-size:12px">GERBANG 2</a>
-                  <a class="dropdown-item text-light" href="#" style="font-size:12px">LAHAN PARKIR</a>
+                  <a class="dropdown-item text-light" href="seputar.php" style="font-size:12px">PELABUHAN</a>
+                  <a class="dropdown-item text-light" href="rumahmakan.php" style="font-size:12px">RUMAH MAKAN</a>
+                  <a class="dropdown-item text-light" href="pelelanganikan.php" style="font-size:12px">PELELANGAN IKAN</a>
+                  <a class="dropdown-item text-light" href="gerbang1.php" style="font-size:12px">GERBANG 1</a>
+                  <a class="dropdown-item text-light" href="gerbang2.php" style="font-size:12px">GERBANG 2</a>
+                  <a class="dropdown-item text-light" href="lahanparkir.php" style="font-size:12px">LAHAN PARKIR</a>
                 </div>
             </li>
             <li class="nav-item dropdown mr-5">
-              <a class="nav-link" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              <a class="nav-link font-weight-bold" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
               Destinasi Pulau 
               <i class="fa fa-chevron-down h5 ml-2"></i>
               </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                  <a class="dropdown-item text-light" href="#" style="font-size:12px">PULAU LANGKADEA</a>
-                  <a class="dropdown-item text-light" href="#" style="font-size:12px">PULAU SAMALONA</a>
-                  <a class="dropdown-item text-light" href="#" style="font-size:12px">PULAU BARRANG LOMPO</a>
-                  <a class="dropdown-item text-light" href="#" style="font-size:12px">PULAU BARRANG CADDI</a>
-                  <a class="dropdown-item text-light" href="#" style="font-size:12px">PULAU KALMAS</a>
-                  <a class="dropdown-item text-light" href="#" style="font-size:12px">PULAU LAE LAE</a>
-                  <a class="dropdown-item text-light" href="#" style="font-size:12px">PULAU KAPOPOSANG</a>
+                  <a class="dropdown-item text-light" href="langkadea.php" style="font-size:12px">PULAU LANGKADEA</a>
+                  <a class="dropdown-item text-light" href="samalona.php" style="font-size:12px">PULAU SAMALONA</a>
+                  <a class="dropdown-item text-light" href="barrang.php" style="font-size:12px">PULAU BARRANG LOMPO</a>
+                  <a class="dropdown-item text-light" href="caddi.php" style="font-size:12px">PULAU BARRANG CADDI</a>
+                  <a class="dropdown-item text-light" href="kalmas.php" style="font-size:12px">PULAU KALMAS</a>
+                  <a class="dropdown-item text-light" href="laelae.php" style="font-size:12px">PULAU LAE LAE</a>
+                  <a class="dropdown-item text-light" href="kapoposang.php" style="font-size:12px">PULAU KAPOPOSANG</a>
                 </div>
             </li>
             <li class="nav-item dropdown mr-5">
-              <a class="nav-link" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              <a class="nav-link font-weight-bold" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
               Lainnya 
               <i class="fa fa-chevron-down h5 ml-2"></i>
               </a>
@@ -237,15 +237,15 @@
           
           <br>
 
-          <!-- sponsor -->
+          <!-- Partner -->
           <div class="px-4">
             <p class="font-weight-bold mx-3" style="font-size:17px">Media Sponsor</p>
-            <img class="px-2" src="assets/img/gambar/sponsor.png">
-            <img class="px-2" src="assets/img/gambar/sponsor.png">
-            <img class="px-2" src="assets/img/gambar/sponsor.png">
-            <img class="px-2" src="assets/img/gambar/sponsor.png">
+            <img class="px-2" src="assets/img/gambar/partner.png">
+            <img class="px-2" src="assets/img/gambar/partner.png">
+            <img class="px-2" src="assets/img/gambar/partner.png">
+            <img class="px-2" src="assets/img/gambar/partner.png">
           </div>
-          <!-- end sponsor -->
+          <!-- end Partner -->
 
         </div>
       </div>
