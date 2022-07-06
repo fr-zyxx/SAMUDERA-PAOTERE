@@ -4,8 +4,8 @@
     <title>Samudera Paotere</title>
     
     <!-- Fa-icon -->
-    <link rel="icon" href="assets/img/samudera.png" sizes="32x32" type="image/png">
-    <link rel="apple-touch-icon" href="assets/img/samudera.png" type="image/png">
+    <link rel="icon" href="assets/img/paooo.png" sizes="32x32" type="image/png">
+    <link rel="apple-touch-icon" href="assets/img/paooo.png" type="image/png">
     
     <!-- Required meta tags -->
     <meta charset="utf-8">
@@ -48,7 +48,7 @@
         
         <!-- Logo -->
         <a class="navbar-brand" href="index.html">
-          <img src="assets/img/samudera_landscape.png" width="142" height="40" alt="Logo Lensa Babel" class="d-inline-block mr-2">
+          <img src="img/paooo.png" width="180" height="60" alt="Logo Lensa Babel" class="d-inline-block mr-2">
         </a>
 
         <!-- Button responsive -->
@@ -92,13 +92,13 @@
                 </div>
             </li>
             <li class="nav-item dropdown mr-5">
-              <a class="nav-link font-weight-bold" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              <a class="nav-link font-weight-bold" href="lainnya.php" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
               Lainnya 
               <i class="fa fa-chevron-down h5 ml-2"></i>
               </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                  <a class="dropdown-item text-light" href="#" style="font-size:12px">Login</a>
-                  <a class="dropdown-item text-light" href="#" style="font-size:12px">Daftar</a>
+                  <a class="dropdown-item text-light" href="login.php" style="font-size:12px">Login</a>
+                  <a class="dropdown-item text-light" href="daftar.php" style="font-size:12px">Daftar</a>
                 </div>
             </li>
           </ul>
@@ -165,7 +165,7 @@
           <div class="py-5">
 
           <div class="my-3">
-            <p class="text-white font-weight-bold" style="font-size:17px">Ikuti kami</p>
+            <p class="text-white font-weight-bold" style="font-size:17px">Ikuti Kami</p>
           </div>
           
           <div class="my-4">
