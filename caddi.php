@@ -140,6 +140,7 @@
 </head>
 <body>
 <img src="img/caddi.jpeg" alt=""  width="1500" height="500">
+<h1 class="text-dark" class="fs-6">Pulau ini terletak di sebelah timur P. Barranglompo, berbentuk memanjang timurlaut-baratdaya, dengan luas 4 ha. Berjarak 11 km dari Makassar dan termasuk pulau yang padat penduduknya, dengan jumlah 1263 jiwa. Mayoritas penduduknya bekerja sebagai nelayan tradisional, hal ini tercermin dari peralatan tangkap yang mereka gunakan masih sederhana, seperti bubu, pancing, rengge, dan lepa-lepa. </h1>
 </body>
 </html>
         <!-- End konten coming soon -->

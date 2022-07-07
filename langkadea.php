@@ -140,6 +140,7 @@
 </head>
 <body>
 <img src="img/langka.jpg" alt=""  width="1500" height="500">
+<h1 class="text-dark" class="fs-6"> Pulau Langkadea merupakan pulau yang tak berpenghuni yang memiliki keindahan sama dengan jajaran pulau spermonde lainnya. Tetapi juga memiliki panorama, keunikan, dan ceritai yang berbeda dengan yang lainnya. </h1>
 </body>
 </html>
         <!-- End konten coming soon -->

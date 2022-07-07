@@ -140,7 +140,8 @@
 </head>
 <body>
 <<h1 class="text-warning" class="fs-6"></h1>
- <img src="img/samalona.jpg" alt=""  width="700" height="500">
+ <img src="img/samalona.jpg" alt=""  width="600" height="400">
+ <h1 class="text-dark" class="fs-6"> Pulau Samalona adalah salah-satu pulau kebanggaan masyarakat Makassar, Sulawesi Selatan, yang memiliki panorama alam yang cantik, serta dilengkapi dengan berbagai fasilitas penunjang yang memanjakan pengunjung </h1>
 </body>
 </html>
 

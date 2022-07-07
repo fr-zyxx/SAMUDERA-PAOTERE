@@ -142,6 +142,7 @@
 <h1 class="font-weight-bold ">PULAU LAE LAE</h1>
 <br>
 <img src="img/lae.jpg" alt=""  width="1500" height="500">
+<h1 class="text-dark" class="fs-6"> Lae-Lae adalah sebuah pulau peninggalan Jepang yang terletak di provinsi Sulawesi Selatan, Indonesia. Pulau dengan luas 6,5 ha berpasir putih ini dihuni oleh 400 keluarga atau sekitar 2.000 jiwa. </h1>
 </body>
 </html>
         <!-- End konten coming soon -->

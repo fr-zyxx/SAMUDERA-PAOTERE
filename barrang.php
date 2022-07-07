@@ -141,6 +141,7 @@
 <body>
     <p>BARRANG LOMPO</p>
     <img src="img/barrang.jpg" alt=""  width="1500" height="500">
+    <h1 class="text-dark" class="fs-6">Pulau barrang lompo termasuk wilayah kecamatan ujung tanah, dan berada di sebelah utara P. Barrang Caddi, dan berjarak 13 km dari Makassar. Pulaunya berbentuk bulat, dengan luas 19 ha. Vegetasi yang umum tumbuh di pulau ini adalah pohon asam, pohon pisang, dan pohon sukun, sedangkan pohon kelapa hanya dijumpai disisi timur dan barat pulau ini. </h1>
 </body>
 </html>
         <!-- End konten coming soon -->

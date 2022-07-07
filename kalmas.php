@@ -140,6 +140,7 @@
 </head>
 <body>
 <img src="img/kalmas.jpg" alt=""  width="1500" height="500">
+<h1 class="text-dark" class="fs-6">Liukang Kalmas atau Kalukuang Masalima adalah sebuah kecamatan di Kabupaten Pangkajene dan Kepulauan, Sulawesi Selatan, Indonesia. Kabupaten ini mencakup wilayah 18 pulau yang berbatasan langsung dengan Kalimantan Selatan di sebelah utara dan Jawa Timur / Laut Jawa di sebelah barat. </h1>
 </body>
 </html>
         <!-- End konten coming soon -->

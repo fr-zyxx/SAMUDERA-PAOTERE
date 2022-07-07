@@ -140,6 +140,7 @@
 </head>
 <body>
  <img src="img/kapoposang.jpg" alt=""  width="900" height="500">
+ <h1 class="text-dark" class="fs-6">Secara administrative, Pulau Kapoposang adalah wilayah Kabupaten Pangkajene Kepulauan (Pangkep) namun akses termudah ke pulau itu adalah melalui Makasar. Dipulau ini tersedia sebuah dive resort dan juga beberapa home stay yang dikelola masyarakat </h1>
 </body>
 </html>
         <!-- End konten coming soon -->
