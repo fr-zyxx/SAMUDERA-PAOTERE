@@ -130,19 +130,11 @@
       <div class="row justify-content-center align-items-center">
 
         <!-- Konten coming soon -->
-        <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-<div class="container-fluid">
-<h1 class="text-danger" class="fs-6">PUSAT PELELANGAN IKAN SEHAT DAN GEMBIRA</h1>
-</body>
-</html>
+        <div class="container-fluid">
+            <img src="img/pelelangan.webp" alt="" width="700" height="500" class="d-inline-block align-text-top">
+        </a>
+        <h1 class="text-dark" class="fs-6"> <br> Pelelangan Ikan merupakan wilayah tempat penjualan ikan yang terdapat di pelabuhan paotere. </h1>
+        </div>
         <!-- End konten coming soon -->
 
       </div>
