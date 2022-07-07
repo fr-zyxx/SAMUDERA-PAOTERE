@@ -47,7 +47,7 @@
         <div class="container-fluid">
         
         <!-- Logo -->
-        <a class="navbar-brand" href="index.html">
+        <a class="navbar-brand" href="index.php">
           <img src="img/paooo.png" width="180" height="60" alt="Logo Lensa Babel" class="d-inline-block mr-2">
         </a>
 

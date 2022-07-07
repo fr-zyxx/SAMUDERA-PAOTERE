@@ -28,7 +28,8 @@
             <input type="checkbox" value="remember-me"> Remember Me
           </label>
         </div>
-        <button class="w-100 btn btn-lg btn-dark" type="submit"><a href="index.php" >Sign in</a></button>
+        <button class="w-100 btn btn-lg btn-dark" type="submit"><a href="index.php" >Sign in</a></button> <br> <br>
+        <button class="w-100 btn btn-lg btn-dark" type="submit"><a href="daftar.php" >Go to Regist</a></button>
         <p class="mt-5 mb-3 text-muted">&copy; 2022-2025</p>
 
       </form>
